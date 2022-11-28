@@ -24,7 +24,7 @@ const checkFunction = checkBtn.addEventListener('click', function () {
         score.textContent  = 10;
        }
 
-    else if(guessInput.value > 20 || guessInput.value <=  0) {
+    else if(guessInput.value > 20 || guessInput.value <  0) {
         message.textContent = '! Between 0 to 20 !'
         message.style.color = 'red'
     } 
