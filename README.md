@@ -1,1 +1,3 @@
-# Guess-the-number
+# Guess-the-number challange 
+## Author Misho Sisvadze
+
